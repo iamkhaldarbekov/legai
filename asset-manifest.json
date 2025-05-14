@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/legai/static/css/main.781cc093.css",
+    "main.js": "/legai/static/js/main.bebad7b1.js",
+    "index.html": "/legai/index.html",
+    "main.781cc093.css.map": "/legai/static/css/main.781cc093.css.map",
+    "main.bebad7b1.js.map": "/legai/static/js/main.bebad7b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781cc093.css",
+    "static/js/main.bebad7b1.js"
+  ]
+}
